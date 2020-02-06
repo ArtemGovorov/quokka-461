@@ -1,0 +1,8 @@
+{
+  "name": "quokka-461",
+  "version": "1.0.0",
+  "dependencies": {
+    "ts-node": "^8.6.2",
+    "typescript": "3.7.2"
+  }
+}
